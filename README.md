@@ -25,7 +25,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## 📫 Let's Connect
-- 📧 khanct2004@gmail.com
+- 📧 [your.email@gmail.com](mailto:khanct2004@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/khánh-vũ-027020287/)
 - 📍 Hanoi, Vietnam
 
