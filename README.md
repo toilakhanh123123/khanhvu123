@@ -1,5 +1,5 @@
 # 👋 Hi, I'm KhanhVu
-### Aspiring Data Analyst | 
+### Aspiring Data Analyst | SQL, Python, Power BI, Tableau | Data Analytics Projects
 
 ## 🔍 About Me
 - 🎓 Senior student at VNU School of Economics (UEB), majoring in International Economics. Expected graduation in July 2026.
